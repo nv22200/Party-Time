@@ -770,7 +770,8 @@ label{
 .footer .credit{
     text-align: center;
     color: #fff;
-    padding-top: -1rem;
+    padding-bottom: 2rem;
+    margin-top: 1rem;
     font-size: 2rem;
 }
 
@@ -787,7 +788,7 @@ label{
     text-align: fixed;
     font-weight: 600;
     font-size: 20px;
-    padding-left: 19rem;
+    padding-left: 14rem;
     color: #f0f0f0;
 }
 
