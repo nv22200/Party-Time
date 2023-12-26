@@ -452,10 +452,9 @@ button:hover {
 }
 
 .footer a{
-  text-align: fixed;
   font-weight: 600;
   font-size: 20px;
-  padding-left: 20rem;
+  padding-left: 18rem;
   color: #f0f0f0;
 }
 
